@@ -4,4 +4,6 @@ Repository for the WNS Analytics Wizard 2019 Challenge based on Ad-click predict
 The Challenge is from the page:
 https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019
 
+XGBoost provided best accuracy ~60% on test data. 
+
 
