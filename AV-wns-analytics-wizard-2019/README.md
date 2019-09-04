@@ -5,7 +5,7 @@ The Challenge is from the page:
 https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019
 
 XGBoost provided best accuracy ~60% on test data. 
-Here is a brief of the approach followed:
+Here is a brief of the approach followed:<br />
 a) Imputing/managing NANs(is any), Removing the duplicates. EDA using value_counts and pair plots for feature analysis.<br />
 b) Dummies for categorical variables - No scaling.<br />
 c) Correlation of independent features with target as well as within independent features.<br />
