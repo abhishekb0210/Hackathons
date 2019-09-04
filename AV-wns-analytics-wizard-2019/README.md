@@ -10,7 +10,7 @@ a) Imputing/managing NANs(is any), Removing the duplicates. EDA using value_coun
 b) Dummies for categorical variables - No scaling.<br />
 c) Correlation of independent features with target as well as within independent features.<br />
 d) SMOTE for upscaling as the original data is biased(95:5 ratio on target variable). Only done on train data after splitting original data using the train_test_split.<br />
-e) Standard Scaling for continuous independent features. Fit_transform on train and validation set, transform only on test set.
+e) Standard Scaling for continuous independent features. Fit_transform on train and validation set, transform only on test set.<br />
 f) Ensemble models and DNNs for modelling.<br />
 g) Accuracy using ROC and Confusion Matrix.<br />
 
